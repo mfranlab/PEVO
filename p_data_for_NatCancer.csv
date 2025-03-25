@@ -1,0 +1,78 @@
+,timepoint,primary_cancer_site,sample_id_clinsight,CR_PR,MSI/MSS,TMB (high and low),HPV (positive/negative),PD-L1 IHC: positive/negative,AS_bi,Short_names
+1,Baseline,Anus,P1,Yes,MSS,low,POSITIVE,+,low,APOBEC
+2,Baseline,Anus,P2,Yes,MSI,high,POSITIVE,+,low,MMR
+3,Baseline,Anus,P3,No,MSS,low,POSITIVE,+,low,APOBEC
+4,Baseline,Anus,P4,No,MSS,low,POSITIVE,-,low,APOBEC
+5,Baseline,Anus,P5,Yes,MSS,low,POSITIVE,+,low,Deamin 5MC
+6,Baseline,Anus,P6,No,MSS,low,POSITIVE,+,low,APOBEC
+7,Baseline,Anus,P7,Yes,MSS,high,POSITIVE,+,high,APOBEC
+8,Baseline,Anus,P8,No,MSS,low,POSITIVE,-,low,Platin
+9,Baseline,Anus,P9,No,MSS,low,POSITIVE,+,low,APOBEC
+10,Baseline,Anus,P10,No,MSS,low,POSITIVE,+,low,APOBEC
+11,Baseline,Anus,P11,No,MSS,low,POSITIVE,+,low,MMR
+12,Baseline,Anus,P12,No,MSS,low,POSITIVE,+,low,APOBEC
+13,Baseline,Anus,P13,No,MSS,low,POSITIVE,+,low,APOBEC
+14,Baseline,Anus,P14,No,MSS,low,POSITIVE,+,low,Deamin 5MC
+15,Baseline,Anus,P15,No,MSS,low,POSITIVE,+,low,APOBEC
+16,Baseline,Anus,P16,No,MSS,low,POSITIVE,+,high,Platin
+17,Baseline,Anus,P17,Yes,MSS,low,POSITIVE,+,low,APOBEC
+18,Baseline,Anus,P18,No,MSS,low,POSITIVE,-,low,MMR
+19,Baseline,Anus,P19,No,MSS,low,POSITIVE,+,high,Deamin 5MC
+20,Baseline,Anus,P20,No,MSS,low,POSITIVE,-,low,Deamin 5MC
+21,Baseline,Anus,P21,No,MSS,low,POSITIVE,-,high,MMR
+22,Baseline,Anus,P22,No,MSS,low,NEGATIVE,NA,low,NA
+23,Baseline,Anus,P23,No,MSS,low,POSITIVE,+,low,APOBEC
+24,Baseline,Anus,P24,Yes,MSS,high,POSITIVE,+,low,APOBEC
+25,Baseline,Anus,P25,No,MSS,low,POSITIVE,+,low,Aflatoxin
+26,Baseline,Cervix,P26,No,MSS,low,POSITIVE,+,low,Deamin 5MC
+27,Baseline,Cervix,P27,Yes,MSS,low,POSITIVE,+,low,Deamin 5MC
+28,Baseline,Cervix,P28,Yes,MSS,low,NEGATIVE,+,low,HRD
+29,Baseline,Cervix,P29,Yes,MSS,low,POSITIVE,+,high,APOBEC
+30,Baseline,Cervix,P30,No,MSS,low,NEGATIVE,NA,low,Aristol ac
+31,Baseline,Cervix,P31,No,MSS,low,POSITIVE,+,high,Platin
+32,Baseline,Cervix,P32,No,MSS,low,POSITIVE,+,low,APOBEC
+33,Baseline,Cervix,P33,Yes,MSS,low,POSITIVE,+,low,APOBEC
+34,Baseline,Cervix,P34,Yes,MSS,low,POSITIVE,+,low,APOBEC
+35,Baseline,Cervix,P35,No,MSS,low,POSITIVE,+,high,HRD
+36,Baseline,Cervix,P36,No,MSS,low,POSITIVE,+,high,Platin
+37,Baseline,Cervix,P37,No,MSS,low,POSITIVE,+,high,APOBEC
+38,Baseline,Cervix,P38,Yes,MSS,high,POSITIVE,NA,low,APOBEC
+39,Baseline,Cervix,P39,No,MSS,low,POSITIVE,+,low,APOBEC
+40,Baseline,Cervix,P40,No,MSS,low,NEGATIVE,+,low,NA
+41,Baseline,Cervix,P41,No,MSS,high,POSITIVE,+,low,APOBEC
+42,Baseline,Head/Neck,P42,No,MSS,low,NEGATIVE,-,high,Aflatoxin
+43,Baseline,Head/Neck,P43,No,MSS,low,NEGATIVE,-,high,HRD
+44,Baseline,Head/Neck,P44,No,MSS,low,NEGATIVE,+,high,APOBEC
+45,Baseline,Head/Neck,P45,No,MSS,low,NEGATIVE,+,low,UV
+46,Baseline,Head/Neck,P46,No,MSS,low,NEGATIVE,-,high,Deamin 5MC
+47,Baseline,Head/Neck,P47,No,MSS,low,NEGATIVE,+,high,APOBEC
+48,Baseline,Head/Neck,P48,No,MSS,low,NEGATIVE,+,high,ROS
+49,Baseline,Head/Neck,P49,No,MSS,low,NEGATIVE,-,low,Tobacco
+50,Baseline,Head/Neck,P50,Yes,MSS,low,NEGATIVE,+,high,Platin
+51,Baseline,Head/Neck,P51,No,MSS,low,NEGATIVE,+,high,Platin
+52,Baseline,Head/Neck,P52,Yes,MSS,low,NEGATIVE,-,high,Deamin 5MC
+53,Baseline,Head/Neck,P53,Yes,MSS,high,NEGATIVE,+,high,APOBEC
+54,Baseline,Head/Neck,P54,No,MSS,low,POSITIVE,+,high,Platin
+55,Baseline,Head/Neck,P55,No,MSS,high,POSITIVE,+,low,APOBEC
+56,Baseline,Head/Neck,P56,No,MSI,low,NEGATIVE,+,low,Deamin 5MC
+57,Baseline,Head/Neck,P57,No,MSS,low,NEGATIVE,+,low,Deamin 5MC
+58,Baseline,Lung,P58,No,MSS,high,NEGATIVE,-,low,APOBEC
+59,Baseline,Lung,P59,No,MSS,low,NEGATIVE,+,high,Chewing tobacco
+60,Baseline,Penis,P60,Yes,MSS,high,POSITIVE,+,low,APOBEC
+61,Baseline,Penis,P61,No,MSS,low,NEGATIVE,-,low,MMR
+62,Baseline,Penis,P62,No,MSS,low,POSITIVE,+,low,APOBEC
+63,Baseline,Penis,P63,No,MSS,low,POSITIVE,+,low,Platin
+64,Baseline,Penis,P64,Yes,MSS,low,NEGATIVE,+,high,APOBEC
+65,Baseline,Penis,P65,No,MSS,low,NEGATIVE,+,high,Platin
+66,Baseline,Vulva/Vagina,P66,No,MSS,low,NEGATIVE,+,high,Deamin 5MC
+67,Baseline,Vulva/Vagina,P67,No,MSS,low,NEGATIVE,+,high,APOBEC
+68,Baseline,Vulva/Vagina,P68,No,MSS,low,POSITIVE,-,low,Deamin 5MC
+69,Baseline,Vulva/Vagina,P69,No,MSS,high,POSITIVE,+,low,POL
+70,Baseline,Vulva/Vagina,P70,Yes,MSI,high,POSITIVE,+,low,MMR
+71,Baseline,Vulva/Vagina,P71,No,MSS,high,POSITIVE,+,low,APOBEC
+72,Baseline,Vulva/Vagina,P72,No,MSS,low,NEGATIVE,+,low,APOBEC
+73,Baseline,Vulva/Vagina,P73,Yes,MSS,low,POSITIVE,+,high,Deamin 5MC
+74,Baseline,Vulva/Vagina,P74,No,MSS,low,POSITIVE,-,high,APOBEC
+75,Baseline,Vulva/Vagina,P75,No,MSS,low,POSITIVE,+,high,HRD
+76,Baseline,Vulva/Vagina,P76,No,MSS,low,NEGATIVE,+,low,APOBEC
+77,Baseline,Vulva/Vagina,P77,Yes,MSS,low,POSITIVE,+,low,APOBEC
